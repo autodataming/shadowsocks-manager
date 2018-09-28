@@ -28,6 +28,8 @@ Usage
 
     cd shadowsocks-manager
     mv config.js.sample config.js
+
+在config.js文件中配置管理员账号，邮箱账号等
     node server
 
 Demo
