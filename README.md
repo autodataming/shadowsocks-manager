@@ -1,11 +1,12 @@
 Shadowsocks-Manager
 ===================
 
-Shadowsocks with multi user and traffic control.
+Shadowsocks with multi user and traffic control.Base on MEAN (Mongo Express Angularjs Nodejs).
 
 Notice
 ------
-I am developing [version 2](https://github.com/shadowsocks/shadowsocks-manager), so the old version won't add any feature.
+The author just maintain [version 2](https://github.com/shadowsocks/shadowsocks-manager) .
+But I will maintain the version 1.
 
 Dependencies
 ------------
@@ -32,7 +33,7 @@ Usage
 Demo
 ----
 
-[http://gyteng.com:6003/](http://gyteng.com:6003/)
+http://gyteng.com:6003/
 
 Screenshot
 ----------
